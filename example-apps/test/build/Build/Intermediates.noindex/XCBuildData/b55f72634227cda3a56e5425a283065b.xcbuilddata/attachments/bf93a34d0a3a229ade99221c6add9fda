@@ -1,0 +1,139 @@
+{
+  "" : {
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/test-primary.dia",
+    "emit-module-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/test-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/test-primary-emit-module.dia",
+    "pch" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/test-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/test-primary.swiftdeps"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/App/ContentView.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/App/testApp.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/testApp.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/testApp.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/testApp.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/testApp.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/testApp.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/testApp.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/testApp.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/testApp~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/Core/Services/AuthenticationManager.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AuthenticationManager.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AuthenticationManager.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AuthenticationManager.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AuthenticationManager.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AuthenticationManager.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AuthenticationManager.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AuthenticationManager.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AuthenticationManager~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/Features/Auth/Views/ForgotPasswordView.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ForgotPasswordView.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ForgotPasswordView.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ForgotPasswordView.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ForgotPasswordView.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ForgotPasswordView.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ForgotPasswordView.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ForgotPasswordView.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/ForgotPasswordView~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/Features/Auth/Views/LoginView.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/LoginView.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/LoginView.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/LoginView.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/LoginView.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/LoginView.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/LoginView~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/Features/Auth/Views/RegisterView.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/RegisterView.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/RegisterView.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/RegisterView.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/RegisterView.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/RegisterView.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/RegisterView.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/RegisterView.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/RegisterView~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/Features/Main/Views/AboutView.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AboutView.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AboutView.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AboutView.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AboutView.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AboutView.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AboutView.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AboutView.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/AboutView~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/Features/Main/Views/EditProfileView.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/EditProfileView.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/EditProfileView.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/EditProfileView.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/EditProfileView.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/EditProfileView.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/EditProfileView.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/EditProfileView.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/EditProfileView~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/Features/Main/Views/HelpAndSupportView.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/HelpAndSupportView.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/HelpAndSupportView.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/HelpAndSupportView.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/HelpAndSupportView.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/HelpAndSupportView.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/HelpAndSupportView.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/HelpAndSupportView.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/HelpAndSupportView~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/Features/Main/Views/MainView.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/MainView.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/MainView.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/MainView.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/MainView.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/MainView.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/MainView.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/MainView.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/MainView~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/Features/Main/Views/SettingsView.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/dzul/Downloads/LocalCode/test/test/Item.swift" : {
+    "const-values" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/dzul/Downloads/LocalCode/test/build/Build/Intermediates.noindex/test.build/Debug-iphonesimulator/test.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  }
+}

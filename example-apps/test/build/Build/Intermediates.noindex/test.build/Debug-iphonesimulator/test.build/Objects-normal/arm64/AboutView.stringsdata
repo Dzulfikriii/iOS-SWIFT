@@ -1,0 +1,32 @@
+{
+  "source": "/Users/dzul/Downloads/LocalCode/test/test/Features/Main/Views/Profile/AboutView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 9
+        }
+      },
+      {
+        "comment": "",
+        "key": "This app is developed by Example Inc.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 10
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,1 @@
+Main Feature Views: home, explore, notifications, profile.
